@@ -1,0 +1,5 @@
+Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...{"free":"8670MB","total":"16318MB","usage":"53%"}
+{"free":"8658MB","total":"16318MB","usage":"53%"}
+{"free":"8657MB","total":"16318MB","usage":"53%"}
+{"free":"8657MB","total":"16318MB","usage":"53%"}
+{"free":"8657MB","total":"16318MB","usage":"53%"}
